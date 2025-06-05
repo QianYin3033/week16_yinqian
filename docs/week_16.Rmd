@@ -1,0 +1,13 @@
+---
+title: "index"
+author: "殷倩"
+date: "2025-06-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+options(repos = c(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+week16_yinqian
